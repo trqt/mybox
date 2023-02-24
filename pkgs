@@ -25,6 +25,7 @@ python3
 qalc
 ripgrep
 starship
+tokei
 torsocks
 vimdiff
 wl-clipboard
