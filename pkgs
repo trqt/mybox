@@ -1,5 +1,6 @@
 atuin
 bat
+broot
 btop
 build-base
 chezmoi
@@ -8,14 +9,17 @@ clang15-extra-tools
 cosign
 dbus-x11
 direnv
+dust
 exa
 fd
 ffmpeg
 fish
 fzf
 github-cli
+gitui
 go
 hyperfine
+mprocs
 ncdu
 ncurses
 neofetch
@@ -25,10 +29,12 @@ plocate
 python3
 qalc
 ripgrep
+skim
 starship
 tokei
 torsocks
 vimdiff
 wl-clipboard
+xh
 zellij
 zstd
