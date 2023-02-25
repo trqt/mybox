@@ -4,6 +4,7 @@ LABEL com.github.containers.toolbox="true" \
       usage="This image is meant to be used with the toolbox or distrobox command" \
       summary="A cloud-native terminal experience"
 
+COPY edge-repos /etc/apk/repositories
 COPY pkgs /
 RUN apk update && \
     apk upgrade && \
